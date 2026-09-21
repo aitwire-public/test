@@ -1,0 +1,8 @@
+{
+  "schema_version": "aitwire.affiliations.v1",
+  "tenant": "test",
+  "generated_at": "2026-09-21T05:21:31.238Z",
+  "count": 0,
+  "affiliations": [],
+  "aitwire_verification_token": "aitwire-verify-offsite-github-04f6a156e4"
+}
