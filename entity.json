@@ -1,0 +1,9 @@
+{
+  "schema_version": "aitwire.authority.graph.v1",
+  "publisher": {
+    "tenant": "test"
+  },
+  "status": "no_data",
+  "message": "No authority data found for this tenant.",
+  "aitwire_verification_token": "aitwire-verify-offsite-github-04f6a156e4"
+}
